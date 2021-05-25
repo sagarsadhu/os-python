@@ -11,8 +11,8 @@ Logged in as {{ user.username }}
 <br>
 {% else %}
 
-<a href="#">Signup</a>
-<a href="#">Login</a>
+<a href="{% url 'signup' %}">Signup</a>
+<a href="{% url 'loginuser' %}">Login</a>
 <br>
 {% endif %}
 <br>
