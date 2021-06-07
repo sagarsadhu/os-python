@@ -1,7 +1,7 @@
 import time
 
 nemo = ['nemo']
-others = ['dory', 'bruce', 'marlin', 'nemo', 'gil' 'bloat', 'nigel', 'squirt','darla', 'hank']
+others = ['dory', 'bruce', 'marlin', 'nemo', 'gil' 'bloat', 'nigel', 'squirt', 'darla', 'hank']
 large = ['nemo' for i in range(100000)]
 
 
